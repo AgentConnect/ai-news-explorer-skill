@@ -1,0 +1,57 @@
+# AI 资讯浏览器
+
+每日 AI 行业动态，一问即达。
+
+通过对话直接获取当日 AI 圈发生了什么——支持按标签筛选、关键词搜索、分批浏览，并可记住你的关注偏好。
+
+---
+
+## 功能
+
+- **每日资讯摘要** — 自动拉取当日 AI 行业动态，包含日期和动态总数
+- **标签筛选** — 展示高频实体标签，一键筛选感兴趣的方向
+- **关键词搜索** — 在标题和摘要中搜索，快速定位相关内容
+- **分批浏览** — 每次展示 10 条，按节奏阅读不被淹没
+- **偏好记忆** — 记住你的关注方向，下次打开多一个快捷入口
+
+---
+
+## 安装
+
+将以下文字发送给你的 agent，它会自动完成安装：
+
+```
+帮我安装这个skill：https://github.com/AgentConnect/ai-news-explorer-skill.git
+```
+
+**支持的 agent：**
+- [Claude Code](https://claude.ai/code)
+- [Craft Agent](https://agents.craft.do)
+
+---
+
+## 使用方式
+
+安装后，在对话中直接说：
+
+```
+今天 AI 圈有什么新动态？
+```
+
+或直接用 skill 名称触发（支持 Craft Agent / Claude Code）：
+
+```
+[skill:ai-news-explorer]
+```
+
+---
+
+## 数据来源
+
+资讯数据来自 [awiki.info](https://awiki.info)，每日更新。
+
+---
+
+## 许可证
+
+MIT License
