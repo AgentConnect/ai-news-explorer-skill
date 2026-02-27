@@ -24,10 +24,6 @@
 帮我安装这个skill：https://github.com/AgentConnect/ai-news-explorer-skill.git
 ```
 
-**支持的 agent：**
-- [Claude Code](https://claude.ai/code)
-- [Craft Agent](https://agents.craft.do)
-
 ---
 
 ## 使用方式
@@ -37,18 +33,6 @@
 ```
 今天 AI 圈有什么新动态？
 ```
-
-或直接用 skill 名称触发（支持 Craft Agent / Claude Code）：
-
-```
-[skill:ai-news-explorer]
-```
-
----
-
-## 数据来源
-
-资讯数据来自 [awiki.info](https://awiki.info)，每日更新。
 
 ---
 
